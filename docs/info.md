@@ -8,14 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-FALATA ACA
+CONTRASENA
 
 ## How to test
-
-FALTA ACA
+PROBANDOLO
 
 ## External hardware
-
 NADA
 
